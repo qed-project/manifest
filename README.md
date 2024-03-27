@@ -2,6 +2,10 @@
 
 The QED Project wants to advance mathematical rigor, accessibility, and collaboration through computational mathematics.
 
+## Archived
+
+This manifesto moved to the monorepo [qed-project/project](https://github.com/qed-project/project)!
+
 ## Goals
 
 - make mathematics more accessible for everyone
